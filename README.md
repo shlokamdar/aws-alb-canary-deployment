@@ -25,7 +25,7 @@ The project demonstrates weighted routing, health checks, access log validation,
 - Internet Gateway and NAT Gateway for connectivity
 
 ### Architecture Diagram
-![ALB Canary Deployment Architecture](alb-canary-architecture.png)
+![ALB Canary Deployment Architecture](alb-canary-architecture.png.png)
 
 ---
 
