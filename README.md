@@ -48,8 +48,6 @@ The project demonstrates weighted routing, health checks, access log validation,
   - ALB allows inbound HTTP (80)
   - Private EC2 instances allow inbound traffic only from ALB
   - SSH allowed only from Bastion Host
-
-Check the Step by Step Implemenation here - ![Documenation](STEP-BY-STEP_IMPLEMENTATION (2).pdf)
 ---
 
 ## Traffic Validation Using ALB Access Logs
